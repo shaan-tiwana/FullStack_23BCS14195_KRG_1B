@@ -21,13 +21,15 @@ A new MySQL user was created specifically for this project:
 | Username | `FullStack` |
 | Password | `1234` |
 
+Database Name is `doc_share_db`
+
 > ⚠️ **Note:** This user account is used **only for project purposes**.
 
 ---
 
 ## 🌐 Database Hosting
 
-The database is hosted on: `vm1.shaantiwana.uk`
+The database is hosted on: `vm1.shaantiwana.uk` with the name `doc_share_db`
 
 You can connect to it using the above credentials through any MySQL management tool such as **DBeaver**, **DataGrip**, or other similar platforms.
 
