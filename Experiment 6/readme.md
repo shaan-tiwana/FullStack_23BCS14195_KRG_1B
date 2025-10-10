@@ -16,10 +16,7 @@ An active **MySQL instance** was already available on an **Oracle Cloud Instance
 
 A new MySQL user was created specifically for this project:
 
-| **Credential** | **Value** |
-|-----------------|-----------|
-| Username | `FullStack` |
-| Password | `1234` |
+The credentials for the same are shared via the ByteXL Nimbus (Experiment 6 description) as exposing them here publically poses a security risk. If in any case you do not have access to the byteXL you can whatsapp me directly on +91 9530909017 for credentials.
 
 Database Name is `doc_share_db`
 
