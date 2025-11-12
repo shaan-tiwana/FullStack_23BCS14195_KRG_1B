@@ -1,0 +1,6 @@
+/home/shaan/University/FS/cloud-docs-sharing-app/Backend_springboot/cloud-file-sharing/src/main/java/com/tempcloud/cloudfilesharing/CloudFileSharingApplication.java
+/home/shaan/University/FS/cloud-docs-sharing-app/Backend_springboot/cloud-file-sharing/src/main/java/com/tempcloud/cloudfilesharing/config/FileStorageProperties.java
+/home/shaan/University/FS/cloud-docs-sharing-app/Backend_springboot/cloud-file-sharing/src/main/java/com/tempcloud/cloudfilesharing/controller/FileController.java
+/home/shaan/University/FS/cloud-docs-sharing-app/Backend_springboot/cloud-file-sharing/src/main/java/com/tempcloud/cloudfilesharing/model/FileRecord.java
+/home/shaan/University/FS/cloud-docs-sharing-app/Backend_springboot/cloud-file-sharing/src/main/java/com/tempcloud/cloudfilesharing/repository/FileRecordRepository.java
+/home/shaan/University/FS/cloud-docs-sharing-app/Backend_springboot/cloud-file-sharing/src/main/java/com/tempcloud/cloudfilesharing/service/FileService.java
